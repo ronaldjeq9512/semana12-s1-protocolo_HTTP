@@ -13,7 +13,6 @@ Se utiliza para actualizar un recurso existente. En HTTP, generalmente se asocia
 ## D. Eliminar (Delete): 
 Se utiliza para eliminar un recurso. En HTTP, generalmente se asocia con el método DELETE.
 
-
 # 2. Verbos HTTP
 ## GET:
 Recupera datos de un servidor en función de un identificador determinado.
